@@ -6,7 +6,7 @@ body {
 }
 
 .x6b {
-  font-family: "HONOR Sans World Regular";
+  font-family: "HONOR Sans World Regular", sans-serif;
   background: #fff;
 }
 
@@ -109,12 +109,12 @@ body {
 }
 
 .x6b .ff-demiBold {
-  font-family: "HONOR Sans World DemiBold";
+  font-family: "HONOR Sans World DemiBold", sans-serif;
   font-weight: 600;
 }
 
 .x6b .ff-medium {
-  font-family: "HONOR Sans World Medium";
+  font-family: "HONOR Sans World Medium", sans-serif;
   font-weight: 500;
 }
 
